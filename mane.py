@@ -1,0 +1,1 @@
+print("ola mundo", "mane","maneismo", sep="--", end="mane da rodo")
